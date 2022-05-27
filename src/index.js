@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from 'react-dom'
 import App from './App'
 
-const rt = document.querySelector("root");
+const rt = document.querySelector("#root");
 
 ReactDOM.render(
     <App/>,
